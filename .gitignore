@@ -1,0 +1,6 @@
+/.wps-pdf-smoke-*/
+/worklog/
+/bin/
+/obj/
+*.exe
+*.pdb
